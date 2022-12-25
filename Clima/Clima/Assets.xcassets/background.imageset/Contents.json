@@ -1,0 +1,35 @@
+{
+  "images" : [
+    {
+      "filename" : "pexels-oliver-sjÃ¶strÃ¶m-1056497@2x.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "pexels-oliver-sjÃ¶strÃ¶m-1056497@2x 1.jpg",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "pexels-alex-conchillos-3888585@2x.jpg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
